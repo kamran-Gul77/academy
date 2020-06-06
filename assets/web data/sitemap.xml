@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>http://iqraulkitab.com/</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>http://iqraulkitab.com/Careers.php</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>http://iqraulkitab.com/Policy.php</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>http://iqraulkitab.com/student_login.php</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>http://iqraulkitab.com/Registration.php</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>http://iqraulkitab.com/contact.php</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>http://iqraulkitab.com/about.php</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>http://iqraulkitab.com/onlinefiles.php</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>http://iqraulkitab.com/fees.php</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>http://iqraulkitab.com/index.php</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>http://iqraulkitab.com/courses.php</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>http://iqraulkitab.com/assets/book/NooraniQaida.pdf</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>http://iqraulkitab.com/assets/book/NooraniQaida eng.pdf</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>http://iqraulkitab.com/assets/book/QuranMajeed-15Lines-SaudiPrint.pdf</loc>
+    <changefreq>always</changefreq>
+  </url>
+</urlset>
+<!--<guid value="ca2f322b-aa16-430b-9322-b82a988f68dc" />-->
